@@ -19,6 +19,7 @@ header button{
     padding: 10px;
     border-radius: 5px;
     border: 1px solid;
+    background-color: white;
 }
 header img{
     margin-left: 540px;
@@ -32,8 +33,9 @@ header img{
 .header-pera{
     width: 570px;
     text-align: center;
-    margin-left: 335px;
+    margin-left: 330px;
     font-size: 14px;
+    color: #373d4b;
 }
 .contact-btn{
     margin-left: 390px;
@@ -41,4 +43,46 @@ header img{
     background-color: black;
     color: white;
     padding: 10px;
+    margin-bottom: 10px;
+}
+/* *** */
+.need{
+    margin: 100px 100px 0 100px;
+
+}
+.need-headline{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 25px;
+}
+.need-description{
+    width: 750px;
+    text-align: center;
+    margin-left: 130px;
+    color: #646464;
+}
+.creative{
+    display: flex;
+    gap: 190px;
+    margin-top: 50px;
+}
+.creative-headline{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.creative-pera{
+    font-size: 14px;
+    color: #646464;
+}
+.creative-div1{
+    width: 50%;
+}
+.demand{
+    display: flex;
+    gap: 190px; 
+}
+.learnig{
+    display: flex;
+    gap: 190px;   
 }
