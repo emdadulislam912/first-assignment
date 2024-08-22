@@ -86,3 +86,98 @@ header img{
     display: flex;
     gap: 190px;   
 }
+/* *** */
+.inspiration{
+    margin: 100px 100px 0 100px;
+}
+.inspiration-headline{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.inspiration-pera{
+    color: #646464;
+    font-size: 14px; 
+    width: 750px;
+    text-align: center;
+    margin-left: 130px;
+}
+.inspiration iframe{
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 130px;
+}
+/* *** */
+.current-target{
+    margin: 100px 100px 0 100px;
+}
+.current-target-headline{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-box{
+    display: flex;
+    gap: 30px;
+    margin: 40px 0 40px 0;
+}
+.html-box{
+    background-color: rgb(255, 245, 226);
+    width: 300px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.css-box{
+    background-color: rgb(204, 204, 255);
+    width: 300px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.java-box{
+    background-color: rgb(255, 255, 202);
+    width: 300px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.box-headline{
+    font-size: 16px;
+    font-weight: bold;    
+}
+.box-pera{
+    font-size: 14px;
+    color: #646464;
+}
+/* *** */
+.support{
+    margin: 100px 100px 0 100px;
+    background-image: url(../images/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+.support-headline{
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.support-pera{
+    color: rgb(235, 235, 235) ;
+    font-size: 14px;
+    width: 500px;
+    text-align: center;
+    margin-left: 270px;
+}
+.message{
+    width: 500px;
+    height: 30px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    border: none;
+}
+.submit{
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+}
